@@ -1,0 +1,44 @@
+{
+  "id": "2580677",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2681692",
+      "name": "积分商城",
+      "font_class": "jifenshangcheng",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "8149097",
+      "name": "vip",
+      "font_class": "vip",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "11238658",
+      "name": "购物",
+      "font_class": "bianpinghuatubiaosheji-",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "16204225",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "ea63",
+      "unicode_decimal": 60003
+    },
+    {
+      "icon_id": "18251905",
+      "name": "购物",
+      "font_class": "gouwu",
+      "unicode": "ef53",
+      "unicode_decimal": 61267
+    }
+  ]
+}
